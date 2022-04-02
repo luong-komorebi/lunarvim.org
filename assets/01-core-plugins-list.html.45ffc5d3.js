@@ -1,0 +1,1 @@
+const e={key:"v-5b553624",path:"/plugins/01-core-plugins-list.html",title:"Core Plugins",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1648895316e3,contributors:[{name:"kylo252",email:"59826753+kylo252@users.noreply.github.com",commits:1}]},filePathRelative:"plugins/01-core-plugins-list.md"};export{e as data};
